@@ -1,0 +1,19 @@
+.cont{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 40px;
+    border: 5px transparent solid;
+    border-radius: 15px;
+    background: linear-gradient(white, white) padding-box, linear-gradient(120deg, green, aqua) border-box;
+    z-index: 2;
+    }
+     
+    
+    
+    .mt{
+        margin-top: 40px;
+    }
